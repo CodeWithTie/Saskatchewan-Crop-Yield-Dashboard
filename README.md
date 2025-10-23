@@ -39,10 +39,9 @@ By combining **Accounting, Finance, and Business Information Systems**, this pro
 
 
 ## 📁 Files
-- [Power BI Dashboard]./Saskatchewan Agriculture dashboard.pbix  
-- [Dataset CSV]./historical_actual_crop_yield_by_CAR (Dashboard Data).csvx 
-- [Dashboard Preview]./Saskatchewan Dashboard 
-
+- [Power BI Dashboard](./Saskatchewan%20Agriculture%20dashboard.pbix)  
+- [Dataset CSV](./historical_actual_crop_yield_by_CAR%20(Dashboard%20Data).csvx)  
+- [Dashboard Preview](./Saskatchewan%20Dashboard%20-%20ScreenShot.png)
 
 ## 🔗 Preview / Explore
 You can view a **preview of the interactive dashboard** or explore the `.pbix` file to interact with the data directly.  
